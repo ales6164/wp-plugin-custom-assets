@@ -3,7 +3,7 @@ h1, h2, h3, h4, h5, h6,
     font-family: 'Bebas Neue', cursive !important;
 }
 
-body, p, span:not(.eltd-icon-font-elegant,.eltd-quantity-plus,.eltd-quantity-minus,.ab-icon), li, label {
+body, p, span:not(.eltd-icon-font-elegant,.eltd-quantity-plus,.eltd-quantity-minus,.ab-icon,.eltd-social-network-icon), li, label {
     font-family: 'Gordita Light', sans-serif !important;
 }
 
